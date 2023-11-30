@@ -7,5 +7,5 @@ Here's where you can find me on public websites:
 
 [GitHub](https://github.com/mehrshad-kh)  
 [LinkedIn](https://www.linkedin.com/in/mehrshadkh/)  
-[StackOverflow](https://stackoverflow.com/users/12660318/mehrshad-khansarian)
+[Stack Overflow](https://stackoverflow.com/users/12660318/mehrshad-khansarian)
 
